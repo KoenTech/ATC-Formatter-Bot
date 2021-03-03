@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ATCoftheWeekFormatter": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "token": ""
+      }
+    }
+  }
+}
